@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096366023388",
+    "project_id": "pokedextecsup",
+    "storage_bucket": "pokedextecsup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096366023388:android:56a2eea87bda3b2fe3ca19",
+        "android_client_info": {
+          "package_name": "com.tecsup.pokedextecsup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSgkXbzWsU_bosyqOnlBEYRZdFziBbEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
